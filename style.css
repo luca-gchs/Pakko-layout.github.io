@@ -73,7 +73,7 @@ header {
 }
 
 .main {
-    
+    max-height: 1050px;
     background: #100A30;
     margin-top: 20px;
 }
@@ -121,4 +121,9 @@ header {
     border: 1px solid #C3C1CB;
     border-radius: 5px;
     margin-left: 10px;
+}
+
+.main-img-wrap{
+    padding: 0;
+    margin: 0;
 }
